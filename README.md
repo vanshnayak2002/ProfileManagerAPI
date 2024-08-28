@@ -20,7 +20,7 @@ Welcome to the **[Your Project Name]** repository! This project is a robust back
 - **Tools:** IntelliJ IDEA, Maven, Git
 
 ## 📂 Project Structure
-
+```
 src/
 ├── main/
 │   ├── java/
@@ -38,4 +38,5 @@ src/
     └── java/
         └── com/
             └── yourpackage/       # Unit and Integration tests
+
 
