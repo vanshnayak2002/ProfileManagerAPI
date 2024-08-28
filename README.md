@@ -39,3 +39,20 @@ src/
     └── java/
         └── com/
             └── yourpackage/       # Unit and Integration tests
+
+## 🔧 Getting Started
+
+To get a local copy of the project up and running, follow these steps.
+
+### Prerequisites
+
+- Java 11+
+- Maven 3.6+
+- MySQL/PostgreSQL (or any other preferred database)
+
+### Installation
+
+1. **Clone the repo**
+   ```sh
+   git clone https://github.com/yourusername/yourprojectname.git
+
