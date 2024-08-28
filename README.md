@@ -39,4 +39,41 @@ src/
         └── com/
             └── yourpackage/       # Unit and Integration tests
 
+```
 
+### API Endpoints
+
+Here's a quick overview of the key API endpoints:
+
+| HTTP Method | Endpoint                 | Description                      |
+|-------------|--------------------------|----------------------------------|
+| GET         | `/api/v1/items`          | Retrieve all items               |
+| GET         | `/api/v1/items/{id}`     | Retrieve item by ID              |
+| POST        | `/api/v1/items`          | Create a new item                |
+| PUT         | `/api/v1/items/{id}`     | Update an existing item by ID    |
+| DELETE      | `/api/v1/items/{id}`     | Delete an item by ID             |
+
+
+## 🌟 Future Enhancements
+
+- [ ] Add OAuth2 authentication support.
+- [ ] Implement caching with Redis.
+- [ ] Add more comprehensive unit and integration tests.
+- [ ] Enhance logging and monitoring.
+
+## 🧑‍🤝‍🧑 Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+## 📬 Contact
+
+Your Name - [your.email@example.com](mailto:your.email@example.com)
+
+Project Link: [https://github.com/yourusername/yourprojectname](https://github.com/yourusername/yourprojectname)
