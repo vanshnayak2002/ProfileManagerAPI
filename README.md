@@ -83,6 +83,6 @@ If you guys want to contribute to this project  **greatly appreciated**.
 
 ## 📬 Contact
 
-Your Name - [Vansh Nayak](mailto:vanshnayak2002@gmail.com)
+Your Name -  Vansh Nayak  [Email](mailto:vanshnayak2002@gmail.com)
 
 Project Link: [Click for Get Link of This Project](https://github.com/vanshnayak2002/ProfileManagerAPI.git)
